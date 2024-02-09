@@ -1,0 +1,7 @@
+langchain
+openai
+unstructured
+unstructured[pdf]
+pinecone-client
+langchain-openai
+langchain-community
